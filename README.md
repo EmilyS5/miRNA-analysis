@@ -1,2 +1,2 @@
 # miRNA-analysis
-Program to analysis miRNA-gene interactions and identify novel diagnostic biomarkers
+Program to analyse miRNA-gene interactions and identify novel diagnostic biomarkers
