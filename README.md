@@ -12,3 +12,7 @@ To use:
 - Update miRNAs, desired number of gene targets, phenotype, and file names as stated in the code comments.
 
 Program run through python powershell as administrator to allow for the CSV to be saved.
+
+Expected output:
+- CSV file containing list of top 10 gene targets per miRNA per database (20 total per miRNA)
+- CSV file containing list of gene targets found to be relevant to the phenotype 
